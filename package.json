@@ -1,25 +1,22 @@
 {
-  "name": "com.nekuzaky.xr"
+  "name": "com.nekuzaky.xr",
   "version": "0.0.0",
-  "displayName": "Package Example",
-  "description": "This is an example package",
+  "displayName": "XR Packages",
+  "description": "XR utilities and packages by Nekuzaky.",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": {
-    "com.[company-name].some-package": "1.0.0",
-    "com.[company-name].other-package": "2.0.0"
- },
- "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+  "documentationUrl": "https://www.nekuzaky.com",
+  "changelogUrl": "https://www.nekuzaky.com",
+  "licensesUrl": "https://www.nekuzaky.com",
+  "dependencies": {},
+  "keywords": [
+    "xr",
+    "vr",
+    "unity"
   ],
   "author": {
     "name": "Nekuzaky",
-    "email": "contact@nekuzaky?com",
+    "email": "contact@nekuzaky.com",
     "url": "https://www.nekuzaky.com"
   }
 }
