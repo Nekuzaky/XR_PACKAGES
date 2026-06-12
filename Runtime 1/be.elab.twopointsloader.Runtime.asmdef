@@ -1,0 +1,16 @@
+{
+    "name": "be.elab.twopointsloader.Runtime",
+    "rootNamespace": "Eloi.TwoPointsLoader",
+    "references": [
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
